@@ -1,0 +1,8 @@
+Anh_Vu 2 4000
+AV -1 Anh_Vu_AV.wav -1
+MV -1 Anh_Vu_MV.wav -1
+#Age: Infant
+#Sex: Female
+#Height: 119.80000000000001
+#Weight: 50.50000000000001
+#Pregnancy status: True
